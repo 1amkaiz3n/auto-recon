@@ -387,3 +387,5 @@ http://yankowsky.*/robots.txt
 http://www.yaromat.*/robots.txt
 http://www.youngvideomodels.*/robots.txt
 http://~26nights.*/robots.txt
+
+http://mp9f95qlr5w6g9:y1elpx1zic9qvx@p.proxik.cloud:8080
